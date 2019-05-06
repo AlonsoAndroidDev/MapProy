@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapProy</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="where_to_go">¿A dónde quieres ir?</string>
+</resources>
