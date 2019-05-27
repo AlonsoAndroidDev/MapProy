@@ -1,16 +1,13 @@
-package com.example.mapproy
+package com.example.mapproy.view
 
 import android.location.Location
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import com.google.android.gms.location.places.Places
+import com.example.mapproy.R
 
-import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.GoogleMap
 import com.google.android.gms.maps.OnMapReadyCallback
 import com.google.android.gms.maps.SupportMapFragment
-import com.google.android.gms.maps.model.LatLng
-import com.google.android.gms.maps.model.MarkerOptions
 
 class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
 

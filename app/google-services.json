@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1015241026495",
+    "firebase_url": "https://mapproy-1557175695555.firebaseio.com",
+    "project_id": "mapproy-1557175695555",
+    "storage_bucket": "mapproy-1557175695555.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015241026495:android:0df3b7b3db6b1f27",
+        "android_client_info": {
+          "package_name": "com.example.mapproy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015241026495-thsg6f0ns3p96jhnpcfde81jmju3m4e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZFr51hISt4Rat9Hqpa3bygMqeS78Q4iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015241026495-thsg6f0ns3p96jhnpcfde81jmju3m4e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
